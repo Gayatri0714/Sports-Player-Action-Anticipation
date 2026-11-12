@@ -1,1 +1,9 @@
-
+torch
+torchvision
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+SoccerNet
+fvcore
